@@ -1,8 +1,9 @@
-.row{
+.holder{
 	width: 100vw;
 	height: 100vh;
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: center;
 }
 .Box, .Box2, .Box3{
 	width: 100px;
